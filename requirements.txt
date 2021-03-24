@@ -60,7 +60,7 @@ python-http-client==3.1.0
 pytz==2018.7
 PyYAML==5.1
 requests==2.21.0
-rsa==4.0
+rsa==4.1
 sendgrid==5.6.0
 six==1.12.0
 typed-ast==1.1.1
